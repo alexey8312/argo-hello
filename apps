@@ -1,0 +1,5 @@
+<script>start("/Users/alexk/Work/Boquar/gitlab-backup/infrastructure/TMP/Argo-hello/argo-hello/apps/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("cert-manager.yaml","cert-manager.yaml",0,532,"532 B",1740030355,"2/20/25, 10:45:55 AM");</script>
+<script>addRow("external-secrets.yaml","external-secrets.yaml",0,550,"550 B",1740030355,"2/20/25, 10:45:55 AM");</script>
+<script>addRow("guestbook.yaml","guestbook.yaml",0,480,"480 B",1740030355,"2/20/25, 10:45:55 AM");</script>
